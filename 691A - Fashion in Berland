@@ -1,3 +1,4 @@
+# 691A - Fashion in Berland
 # This is a solution to codeforces problem 691A - Fashion in Berland
 
 n = int(input())
